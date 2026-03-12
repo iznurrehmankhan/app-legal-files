@@ -6,7 +6,7 @@ Centralized repository for managing mobile app legal files, including a single `
 
 ## Repository Structure
 
-```text
+```
 my-app-legal-site/
 ├─ app-ads.txt                  # Single file listing authorized AdMob accounts
 ├─ privacy/                     # Folder containing app-specific privacy policies
@@ -15,3 +15,4 @@ my-app-legal-site/
 │   ├─ app_three.html
 ├─ README.md                     # This file
 └─ assets/ (optional)           # Optional folder for images or other assets
+```
